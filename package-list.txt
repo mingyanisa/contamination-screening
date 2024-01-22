@@ -1,0 +1,9 @@
+# packages in environment at /homes/analyser/.conda/envs/contam-screening:
+#
+# Name                    Version                   Build  Channel
+biopython                 1.79             py36h8f6f2f9_0    conda-forge
+bowtie2                   2.2.5            py36h6bb024c_5    bioconda
+fastp                     0.23.2               hb7a2d85_2    bioconda
+numpy                     1.14.2           py36hdbf6ddf_0  
+python                    3.6.13               h12debd9_1  
+seqtk                     1.2                           0    bioconda
