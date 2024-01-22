@@ -1,0 +1,8 @@
+*.log
+*.html
+*.json
+*.fastq.gz
+*.fastq
+*.sam
+*/ref
+
