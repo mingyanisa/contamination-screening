@@ -5,4 +5,5 @@
 *.fastq
 *.sam
 */ref
+.env
 
