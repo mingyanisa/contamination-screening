@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 species=${1:-"sars-cov-2"}
 filename=${2:-"SRR21435444_1.fastq.gz"}
 sample=$(basename -- "${filename%_*}")
